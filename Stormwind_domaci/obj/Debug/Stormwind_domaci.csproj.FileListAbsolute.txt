@@ -1,0 +1,11 @@
+C:\Users\pc\Desktop\Stormwind_domaci\Stormwind_domaci\bin\Debug\Stormwind_domaci.exe.config
+C:\Users\pc\Desktop\Stormwind_domaci\Stormwind_domaci\bin\Debug\Database1.mdf
+C:\Users\pc\Desktop\Stormwind_domaci\Stormwind_domaci\bin\Debug\Database1_log.ldf
+C:\Users\pc\Desktop\Stormwind_domaci\Stormwind_domaci\bin\Debug\Stormwind_domaci.exe
+C:\Users\pc\Desktop\Stormwind_domaci\Stormwind_domaci\bin\Debug\Stormwind_domaci.pdb
+C:\Users\pc\Desktop\Stormwind_domaci\Stormwind_domaci\obj\Debug\Stormwind_domaci.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\Stormwind_domaci\Stormwind_domaci\obj\Debug\Stormwind_domaci.Form1.resources
+C:\Users\pc\Desktop\Stormwind_domaci\Stormwind_domaci\obj\Debug\Stormwind_domaci.Properties.Resources.resources
+C:\Users\pc\Desktop\Stormwind_domaci\Stormwind_domaci\obj\Debug\Stormwind_domaci.csproj.GenerateResource.Cache
+C:\Users\pc\Desktop\Stormwind_domaci\Stormwind_domaci\obj\Debug\Stormwind_domaci.exe
+C:\Users\pc\Desktop\Stormwind_domaci\Stormwind_domaci\obj\Debug\Stormwind_domaci.pdb
